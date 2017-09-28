@@ -1,1 +1,1 @@
-puts "Hello World!ru"
+puts "Hello World!"
